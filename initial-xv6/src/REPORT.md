@@ -65,8 +65,7 @@ In conclusion:
 - **RR** and **MLFQ** exhibit similar average waiting times, with RR having a slightly higher average waiting time.
 
 
-![MLFQ graph](graph.png)
-
+![MLFQ graph](./kernel/graph.png)
 
 
 
